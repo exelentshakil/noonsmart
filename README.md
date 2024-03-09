@@ -27,12 +27,12 @@ Noon's Baby is an online platform designed to make shopping for baby products qu
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [Your Backend Framework/Technology]
-- **Database**: [Your Database Technology]
-- **Payment Gateway Integration**: [Payment Gateway]
+- **Frontend**: HTML, CSS, Vue
+- **Backend**: TBD
+- **Database**: MySQL
+- **Payment Gateway Integration**: TBD
 - **Version Control**: Git
-- **Hosting**: [Hosting Service]
+- **Hosting**: TBD
 
 ## Getting Started
 
@@ -44,7 +44,7 @@ To get started with Noon's Baby locally, follow these steps:
    git clone https://github.com/your-username/noons-baby.git
    ```
 
-2. [Additional steps like installing dependencies, setting up the database, etc.]
+2. [Additional steps TBD like installing dependencies, setting up the database, etc.]
 
 3. Run the application:
 
